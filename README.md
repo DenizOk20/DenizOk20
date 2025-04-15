@@ -43,14 +43,14 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=denizok20&show_icons=true&locale=en" width="60%"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=denizok20&show_icons=true&locale=en&layout=compact" width="60%"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denizok20&" width="60%"/>
 </p>
