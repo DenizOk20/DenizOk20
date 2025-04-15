@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">A frontend developer from Turkey</h3>
+<h3 align="center">A Data Science & Machine Learning Enthusiast from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizok20&label=Profile%20views&color=0e75b6&style=flat" alt="denizok20" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python for Data Science**
+
+- 🧠 Working on projects like **customer segmentation** and **tumor detection using YOLOv8**
+
+- 💻 Experienced in frontend development, especially with modern tools like **React**
 
 - 📫 How to reach me **deniz.ok2019@gmail.com**
 
